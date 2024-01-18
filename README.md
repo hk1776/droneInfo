@@ -24,8 +24,6 @@
 ## 💻System Design
 
 <h3> Tech Stack </h3>
-<h4> Platforms & Languages </h4>
-
 <div align="left">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
@@ -34,12 +32,13 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-<br><br>
+<br>
 
 ### System Requirements
    
-![need](https://github.com/HBNU-SWUNIV/come-capstone23-pool/assets/77769783/463556d1-1c64-4b2e-bfca-9411fcdcc8ae)
-    
+![요구사항](https://github.com/hk1776/droneInfo/assets/77769783/2c852ebc-18cd-436f-8712-b2b42f97ee24)
+
+<br><br>
 ## 📲Result
    ### 시스템 구성도
 ![project](https://github.com/HBNU-SWUNIV/come-capstone23-pool/assets/77769783/da36abb1-c58a-4f56-a4e8-b33c3a01292f)
