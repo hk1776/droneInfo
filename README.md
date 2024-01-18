@@ -45,9 +45,14 @@
 ![요구 결과](https://github.com/hk1776/droneInfo/assets/77769783/10cf44f3-8e62-4068-9d68-470b8302577d)
 
    ### 주요기능
-   - #### 로그인 기능
-      - 세션을 활용한 자동 로그인기능 <br><br>
-      	<img src="https://github.com/HBNU-SWUNIV/come-capstone23-pool/assets/77769783/8ac89075-1000-4259-8a3e-7ece76e0843a" width="200" height="400"/>
+   - #### 지도에 마커로 드론 위치 표시
+      - 소켓통신으로 현재 비행중인 드론의 좌표값을 받아 지도에 표시
+      - 지나간 경로는 점으로 표현
+      - 마커 클릭 시 드론 기체 이름 표시
+        
+         <br><br>![1](https://github.com/hk1776/droneInfo/assets/77769783/f935a7e5-4ca9-4bfe-b2f6-2ba86a9a6716)
+
+
      
    - #### 카풀 게시물 리스트
       - 게시물 검색 기능(출발지, 도착지, 운행요일, 세부 옵션 등으로 검색)
