@@ -98,35 +98,16 @@
       ![7](https://github.com/hk1776/droneInfo/assets/77769783/6cf2e03e-a9df-4396-a0dd-a598ff8ad723)
 
 
+<br><br>
 
-
-  - #### 등록된 카풀 리스트
-      - 현재 자신이 소속된 카풀 리스트 확인
-      - 카풀 게시물 등록자인 경우 게시물 관리자가 됨
-      - 카풀 관리자인 경우 해당 카풀 신청자 리스트를 확인 가능
-      - 카풀 관리자인 경우 해당 카풀에 공지사항 등록 가능
-      - 카풀 관리자인 경우 해당 카풀에 새로운 유저 등록 및 기존 유저 탑승 일정 수정 및 삭제 가능
-      - 카풀 운행 요일이 표로 나오며 해당 요일에 탑승자 명단과 운전자가 표시
-      - 카풀 탑승객인 경우 1회 카풀 평점 등록 가능 <br><br>
-        <img src="https://github.com/HBNU-SWUNIV/come-capstone23-pool/assets/77769783/7e4f5a57-d259-41ac-a57b-8fe345db178a" width="200" height="500"/>
+  - #### 드론 로그 시뮬레이션
+      - 저장된 비행 로그 기록을 바탕으로 웹에 비행 시뮬레이션을 실행
+      - 2배속 3배속으로 비행 기록을 재생 가능 <br>
+         
+      ![8](https://github.com/hk1776/droneInfo/assets/77769783/78d9f4d9-f645-4835-a744-fd2be78d9af4)
+    
   
-  - #### 채팅 기능
-      - 카풀 관리자는 카풀 신청자 리스트에서 신청자의 평점과 세부 정보확인 가능
-      - 카풀 관리자는 신청자를 카풀에 등록시키기 전 채팅 가능
-      - 채팅 버튼 누를 시 채팅 목록 페이지에 채팅방 생성
-      - 소켓 통신으로 실시간 채팅 <br><br>
-        
-        <img src="https://github.com/HBNU-SWUNIV/come-capstone23-pool/assets/77769783/f4a76cb7-3b73-47ea-baba-853331d1c15a" width="200" height="400"/>
-
-  - #### 마이페이지
-    - 본인의 평점 확인 기능
-    - 프로필 사진 등록 기능
-    - 카풀 탑승 일정 시간표로 호가인 가능
-    - 차량 사진과 정보 등록 기능
-    - 가상 머니 충전, 송금 출금 기능
-    - 회원 정보 수정 및 회원 탈퇴 기능 <br><br>
-        <img src="https://github.com/HBNU-SWUNIV/come-capstone23-pool/assets/77769783/dcd59b11-9bbe-4c06-a676-babfbfee8011" width="200" height="400"/>
-
+<br><br>
    
   ## 🎓Conclusion
 
