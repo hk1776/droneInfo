@@ -61,11 +61,17 @@
 
      
    - #### 그래프로 고도 속도 표시
-      - 게시물 검색 기능(출발지, 도착지, 운행요일, 세부 옵션 등으로 검색)
-      - 회원 가입시 등록한 사용자의 거주지와 인접한 출발지를 가진 카풀 게시물만 보는 기능
-      - 게시물 요약 정보 확인 (운전자, 별점, 출발지, 도착지, 출발시간) <br>
-	![2](https://github.com/hk1776/droneInfo/assets/77769783/3cfb6eec-5458-491b-a774-42751c702c1d)
-![4](https://github.com/hk1776/droneInfo/assets/77769783/fcaf5b82-53a3-4755-8d0c-07545a109166)
+
+      - Highcharts 라이브러리를 사용하여 고도 속도 그래프 표현
+      - 드론의 지표면, 해수면 기준 고도를 그래프로 표시
+   
+      ![2](https://github.com/hk1776/droneInfo/assets/77769783/3cfb6eec-5458-491b-a774-42751c702c1d)
+
+      - 드론의 속도를 그래프로 표시
+   
+      ![4](https://github.com/hk1776/droneInfo/assets/77769783/fd5d855a-eb41-4d6f-9e20-d62d1a980237)
+
+
 
 <br><br>
 
@@ -73,7 +79,11 @@
    - #### 3D 모델로 드론의 상태 표시
       - 드론의 roll pitch yaw 상태를 3D 모델로 표현
       - 3D 모델은 (주)두시텍의 KNX2 모델을 사용하였고 Three.js 라이브러리를 사용하여 웹에 표현 <br>
- ![6](https://github.com/hk1776/droneInfo/assets/77769783/b98e78cd-fc45-4614-9023-40093345cdd4)
+
+   
+      ![6](https://github.com/hk1776/droneInfo/assets/77769783/47d66bdd-4e55-4660-b339-4a65dcab0f8a)
+
+
 
 <br><br>
 
