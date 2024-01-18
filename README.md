@@ -54,12 +54,14 @@
 
 
      
-   - #### 카풀 게시물 리스트
+   - #### 그래프로 고도 속도 표시
       - 게시물 검색 기능(출발지, 도착지, 운행요일, 세부 옵션 등으로 검색)
       - 회원 가입시 등록한 사용자의 거주지와 인접한 출발지를 가진 카풀 게시물만 보는 기능
       - 게시물 요약 정보 확인 (운전자, 별점, 출발지, 도착지, 출발시간)<br><br>
-	<img src="https://github.com/HBNU-SWUNIV/come-capstone23-pool/assets/77769783/4309219b-9fa3-40d8-9279-bad55ca3fb1e" width="200" height="400"/>
-  	<img src="https://github.com/HBNU-SWUNIV/come-capstone23-pool/assets/77769783/0f55ae73-bdf7-4bf1-988f-2dbec0b43aa6" width="200" height="400"/>   
+	![2](https://github.com/hk1776/droneInfo/assets/77769783/3cfb6eec-5458-491b-a774-42751c702c1d)
+![4](https://github.com/hk1776/droneInfo/assets/77769783/fcaf5b82-53a3-4755-8d0c-07545a109166)
+
+
 
    - #### 카풀 게시물 등록
       - 마이 페이지에서 차량을 등록한 사용자만 게시물 등록 가능
