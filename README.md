@@ -6,7 +6,7 @@
 ## <u>👨‍🔧Producer
 - #### 드론 관제 웹 서버 제작
 	한밭대학교 컴퓨터공학과 강홍규
-- #### 드론 데이터 관리 서버 제작
+- #### 드론 데이터 중계 서버 제작
 	(주)두시텍 이재헌 사원
 	
 
@@ -26,6 +26,7 @@
 <h3> Tech Stack </h3>
 <div align="left">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/Intellij%20IDE-000000?style=flat&logo=intellijidea&logoColor=white" />
