@@ -1,5 +1,6 @@
 # 실시간 드론 관제 웹
-**(주)두시텍 인턴 프로젝트**
+**(주)두시텍 인턴 프로젝트1**
+제작기간 : 2023.07.04~2023.09.04
 
 ## <u>👨‍🔧Producer
 <h3>팀 구성</h3> 
@@ -41,7 +42,8 @@
 <br><br>
 ## 📲Result
    ### 시스템 구성도
-![project](https://github.com/HBNU-SWUNIV/come-capstone23-pool/assets/77769783/da36abb1-c58a-4f56-a4e8-b33c3a01292f)
+![요구 결과](https://github.com/hk1776/droneInfo/assets/77769783/10cf44f3-8e62-4068-9d68-470b8302577d)
+
    ### 주요기능
    - #### 로그인 기능
       - 세션을 활용한 자동 로그인기능 <br><br>
