@@ -45,34 +45,37 @@
 ![요구 결과](https://github.com/hk1776/droneInfo/assets/77769783/10cf44f3-8e62-4068-9d68-470b8302577d)
 
    ### 주요기능
+   - #### 현재 접속중인 드론 리스트
+      - 소켓통신으로 현재 비행중인 드론의 id 기업명 등을 리스트로 표시<br>
+     
+       ![5](https://github.com/hk1776/droneInfo/assets/77769783/8bfeca32-aebb-4dfa-a885-d8201a0c2812)
+<br><br>
+
    - #### 지도에 마커로 드론 위치 표시
       - 소켓통신으로 현재 비행중인 드론의 좌표값을 받아 지도에 표시
       - 지나간 경로는 점으로 표현
-      - 마커 클릭 시 드론 기체 이름 표시
-        
-         <br><br>![1](https://github.com/hk1776/droneInfo/assets/77769783/f935a7e5-4ca9-4bfe-b2f6-2ba86a9a6716)
+      - 마커 클릭 시 드론 기체 이름 표시<br>
+      
+      ![1](https://github.com/hk1776/droneInfo/assets/77769783/f935a7e5-4ca9-4bfe-b2f6-2ba86a9a6716)
 
 
      
    - #### 그래프로 고도 속도 표시
       - 게시물 검색 기능(출발지, 도착지, 운행요일, 세부 옵션 등으로 검색)
       - 회원 가입시 등록한 사용자의 거주지와 인접한 출발지를 가진 카풀 게시물만 보는 기능
-      - 게시물 요약 정보 확인 (운전자, 별점, 출발지, 도착지, 출발시간)<br><br>
+      - 게시물 요약 정보 확인 (운전자, 별점, 출발지, 도착지, 출발시간) <br>
 	![2](https://github.com/hk1776/droneInfo/assets/77769783/3cfb6eec-5458-491b-a774-42751c702c1d)
 ![4](https://github.com/hk1776/droneInfo/assets/77769783/fcaf5b82-53a3-4755-8d0c-07545a109166)
 
+<br><br>
 
 
-   - #### 카풀 게시물 등록
-      - 마이 페이지에서 차량을 등록한 사용자만 게시물 등록 가능
-      - 네이버 지도 API를 사용하여 출발지와 목적지를 세밀하게 등록 가능
-      - 카풀 운행 요일 및 시간 등록
-      - 카풀 운행 거리에 따른 카풀 요금 추천
-      - 카풀 탑승 세부 조건 등록 (성별, 흡연여부, 반려동물 탑승 가능 여부, 아이동반 탑승 가능여부, 화물 소지 가능 여부)
-      - 최대 탑승 가능 인원 설정 
-      - 추가 전달사항 등록 <br><br>
-        <img src="https://github.com/HBNU-SWUNIV/come-capstone23-pool/assets/77769783/7a460606-3b36-482f-8690-b4dc18174198" width="200" height="450"/>
-	        <img src="https://github.com/HBNU-SWUNIV/come-capstone23-pool/assets/77769783/5d41e566-e468-4675-9703-77c9a44a35d5" width="200" height="400"/>
+   - #### 3D 모델로 드론의 상태 표시
+      - 드론의 roll pitch yaw 상태를 3D 모델로 표현
+      - 3D 모델은 (주)두시텍의 KNX2 모델을 사용하였고 Three.js 라이브러리를 사용하여 웹에 표현 <br>
+ ![6](https://github.com/hk1776/droneInfo/assets/77769783/b98e78cd-fc45-4614-9023-40093345cdd4)
+
+<br><br>
 
   - #### 카풀 게시물 확인
       - 카풀 세부 정보 확인(출발지, 운행 요일 및 시간, 세부옵션, 카풀 평점 등)
