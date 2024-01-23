@@ -110,6 +110,12 @@
     
   
 <br><br>
+
+  ### 시연 영상
+
+https://github.com/hk1776/droneInfo/assets/77769783/ae06d9a9-50a4-4b75-8123-f2e2d066cb60
+
+
    
   ## 🎓Conclusion
   #### (주)두시텍 보유 서버에 해당 프로젝트를 배포하여 연구 및 시연용으로 사용
